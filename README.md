@@ -1,6 +1,7 @@
 # ReactNativeSceneDelegate
 
 ![Build](https://github.com/athombv/ReactNativeSceneDelegate/workflows/Pre%20Merge%20Checks/badge.svg)
+
 👆 Use Xcode 26
 
 This is your new React Native Reproducer project.
